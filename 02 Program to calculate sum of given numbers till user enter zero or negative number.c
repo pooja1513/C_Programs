@@ -14,9 +14,9 @@ int main()
        scanf("%d",&No);
        
        if(No<=0)
-        {
-        	break;
-        }
+       {
+          break;
+       }
         
        Sum = Sum + No;
        Cnt++;
